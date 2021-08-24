@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "648242672470",
+    "firebase_url": "https://sirui-stoolbox-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sirui-stoolbox",
+    "storage_bucket": "sirui-stoolbox.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648242672470:android:a691b4b620267cda6fdcf7",
+        "android_client_info": {
+          "package_name": "com.example.siruistoolboxgobrrr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648242672470-o89uis0uhcjlpu702fcgm30un8907cgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9qpMGWjXbeBgClTh-e46IXyIJ-lrmP4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648242672470-o89uis0uhcjlpu702fcgm30un8907cgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
